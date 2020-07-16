@@ -14,12 +14,3 @@ void ft_ft (int*nbr)
 {
 	*nbr=42 ;
 }
-int main ()
-{	
-	int *a;
-	int *ptr;
-	*a=42;
-
-	return (*a);
-	return 0;
-}
