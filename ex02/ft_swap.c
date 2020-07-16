@@ -22,16 +22,4 @@ void ft_swap (int *a,int *b)
 
 }
 
-int main()
-{
-    int n1;
-    int n2;
 
-    n1 = 6;
-    n2 = 3;
-
-    printf("%d%d\n" n1, n2);
-    ft_swap(&n1,&n2);
-    printf("%d%d\n" n1, n2);
-    return 0;
-}
