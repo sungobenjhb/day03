@@ -18,16 +18,4 @@ void ft_di_mod(int a,int b,itn *div,int*mod);
 	y = a % b;
 	*mod = y;
 }
-int main ()
-{ 
-	int p;
-	int q;
-	int *z;
-	int *w;
-	p =s
-    q = 2
-ft_div_mod (p,q,&z.&w);
-printf("z %d,%d \n",z,w);
-return o;
-}
 
