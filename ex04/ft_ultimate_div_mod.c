@@ -18,16 +18,7 @@ void ft_ultimate_div_mod(int *a ,int *b)
 	*a = save1;
 	*b = save2;
 }
-int main ()
-{
-	int x;
-	int y;
-	x = 7;
-	y = 3;
-	ft_ultimate_div_mod (&x,&y);
-	printf("%d,%d\n",x,y)
-	return 0;
-}
+
 
 
 
